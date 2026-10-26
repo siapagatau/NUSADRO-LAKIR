@@ -1,0 +1,7 @@
+<resources>
+    <style name="Theme.Nusa" parent="android:Theme.Material.NoActionBar">
+        <item name="android:windowBackground">#03040A</item>
+        <item name="android:statusBarColor">#03040A</item>
+        <item name="android:navigationBarColor">#0A0D18</item>
+    </style>
+</resources>

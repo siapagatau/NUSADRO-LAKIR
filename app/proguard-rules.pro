@@ -1,0 +1,2 @@
+-keep class id.nusa.notch.** { *; }
+-dontwarn org.jetbrains.annotations.**

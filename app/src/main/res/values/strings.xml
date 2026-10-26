@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Nusa</string>
+    <string name="a11y_desc">Hanya dipakai untuk menampilkan notch Nusa di atas status bar agar tetap bisa diketuk. Nusa tidak membaca isi layar dan tidak merekam apa pun.</string>
+</resources>
